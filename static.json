@@ -1,7 +1,8 @@
 {
 	"headers": {
 		"/*": {
-		"X-Author": "nanashinogonbee"
+		"X-Author": "nanashinogonbee",
+		"Access-Control-Allow-Origin": "*"
 		}
 	}
 }
